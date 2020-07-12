@@ -1,4 +1,4 @@
-![image](https://s1.ax1x.com/2020/07/13/UGKoqJ.gif)
+<div align=center><img src="https://s1.ax1x.com/2020/07/13/UGKoqJ.gif"/></div>
 
 <!--
 **v5sollee/v5sollee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
