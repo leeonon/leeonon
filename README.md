@@ -1,4 +1,4 @@
-![image](./images/v2-e8e14795cbdb002a023c316c6698092c_hd.gif)
+![image](/images/v2-e8e14795cbdb002a023c316c6698092c_hd.gif)
 
 <!--
 **v5sollee/v5sollee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
