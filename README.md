@@ -1,4 +1,3 @@
-<div align=center><img src="https://s1.ax1x.com/2020/07/13/UGKoqJ.gif"/></div>
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=25120803" target="_blank" style="display: block" align="center">
@@ -14,6 +13,8 @@
 
 <!--
 **v5sollee/v5sollee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align=center><img src="https://s1.ax1x.com/2020/07/13/UGKoqJ.gif"/></div>
 
 Here are some ideas to get you started:
 
